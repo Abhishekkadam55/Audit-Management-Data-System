@@ -1,0 +1,1 @@
+SELECT * FROM audit_score.departmentscore;
